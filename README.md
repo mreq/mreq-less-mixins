@@ -1,4 +1,4 @@
 mreq-less-mixins
 ================
 
-Some mixins I find usefull
+Some mixins I find useful
